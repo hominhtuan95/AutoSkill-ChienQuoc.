@@ -1,0 +1,6 @@
+1. Tao repository GitHub moi (Private neu muon).
+2. Upload CAC FILE va thu muc .github trong thu muc nay vao goc repository.
+3. Mo tab Actions, chon Build AutoSkill Windows 11, Run workflow.
+4. Cho build thanh cong, tai artifact AutoSkill-ChienQuoc-Win11 o cuoi trang run.
+5. Giai nen ZIP, chay AutoSkill.exe tren Windows 11.
+Luu y: chua kiem thu tren game; chi gui phim khi cua so game dang active.
